@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "elections.dtree"]
+	path = elections.dtree
+	url = https://github.com/fleverest/elections.dtree
+	shallow = true
+	registered = true
