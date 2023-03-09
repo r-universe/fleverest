@@ -2,5 +2,9 @@
   {
     "package": "elections.dtree",
     "oncran": true
+  },
+  {
+    "package": "prefio",
+    "oncran": true
   }
 ]
